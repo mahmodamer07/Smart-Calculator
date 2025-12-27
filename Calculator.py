@@ -4,7 +4,7 @@
 # enter second number
 # show result
 
-print ("Thank you for using mahmod calculator, Please elt me help you")
+print ("Thank you for using mahmod calculator, Please let me help you")
 first_number =float (input ("Please enter first number "))
 operator = input ("Please enter operator + - * / : ")
 second_number =float (input ("Please enter second number "))
